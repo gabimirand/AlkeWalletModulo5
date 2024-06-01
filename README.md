@@ -7,3 +7,5 @@ PROYECTO EN PROCESO
         --TomCat-Servlet-api.9.0.4jar.
         --mysql-connector-api.8.3.0.jar
         --jstl-1.2.jar
+
+  La base de datos utilizada es la de este proyecto: https://github.com/gabimirand/Modulo3-Fundamentos-de-Bases-de-Datos-Relacionales.git
